@@ -5,22 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
-    <br />
-    <strong>Site URL / Demo » </strong>
-    <a href="https://hashirshoaeb.github.io/portfolio"> hashirshoaeb.github.io/portfolio</a>
-    <br />
-    <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Request Feature</a>
   </p>
 </p>
 
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/network)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=14.17.3&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=7.19.1&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -49,7 +37,6 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-[![Product Name Screen Shot](/READMEdocs/screenshot.gif)](https://example.com)
 
 There are many portfolio website templates available on Github, however, I didn't find one that really suit my needs so I created this one. A simple, easy to configure, lightweight, and responsive static portfolio website.
 
@@ -70,7 +57,7 @@ I know one template doesn't fulfill everyone's needs. So I'll try adding more fe
 <!-- GETTING STARTED -->
 # Getting Started
 
-Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below. Please feel free to reach out to me by filing an [issue](https://github.com/hashirshoaeb/portfolio/issues) or emailing me at hashirshoaeb@gmail.com for help configuring your project.
+Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below. Please feel free to reach out to me by  emailing me at sarthakrastogi242@gmail.com for help configuring your project.
 
 ## Prerequisites
 
@@ -119,7 +106,8 @@ Create a new repository with your username as `<your-username>.github.io`. And l
 
 Your site will be available at `https://<your-username>.github.io`
 
->Note: You need to replace `<your-username>` with your username. To add CNAME for custom domain, see [scripts/cname.js](https://github.com/hashirshoaeb/portfolio/blob/main/scripts/cname.js)
+>Note: You need to replace `<your-username>` with your username. To add CNAME for custom domain.
+
 
 
 
