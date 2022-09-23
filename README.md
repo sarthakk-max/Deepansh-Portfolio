@@ -55,8 +55,6 @@ I know one template doesn't fulfill everyone's needs. So I'll try adding more fe
 - [x] Lightweight
 - [x] Linktree Page
 
-**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
-
 
 
 <!-- GETTING STARTED -->
@@ -66,7 +64,7 @@ Building your own personal website from this project can take as little as 30 mi
 
 ## Prerequisites
 
-You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads) installed on your PC. You should also own a GitHub account.
+You should have [Git](https://git-scm.com/downloads) installed on your PC. You should also own a GitHub account.
 
 ## Setup
 
